@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=profparadox3&label=Profile%20views&color=0e75b6&style=flat" alt="profparadox3" /> </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Prof.Paradox.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Prof.Paradox.png" alt="Your Image Badge" />
 
 - 🔭 I’m currently working on **Network Fuzzing**
 
