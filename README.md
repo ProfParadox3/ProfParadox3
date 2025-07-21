@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=profparadox3&label=Profile%20views&color=0e75b6&style=flat" alt="profparadox3" /> </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3135958" style='border:none;'></iframe>
-
 - 🔭 I’m currently working on **Network Fuzzing**
 
 - 🌱 I’m currently learning **Cyber Security**
